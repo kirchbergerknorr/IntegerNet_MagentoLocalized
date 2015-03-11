@@ -1,0 +1,2 @@
+# IntegerNet_MagentoLocalized
+IntegerNet_MagentoLocalized
